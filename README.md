@@ -1,6 +1,8 @@
 # Crime-Prediction-Using-Machine-Learning
 The Crime Prediction Using Machine Learning project With Code, Documents And Video Tutorial
 
+![Crime Prediction](https://github.com/user-attachments/assets/7c6a2556-ae07-4126-a094-0f51efc47adb)
+
 ## Youtube Video: https://youtu.be/4rAoiBh2MH0?si=GZTrbiHpd9plujbt
 
 ## Abstract: 
